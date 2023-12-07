@@ -1,0 +1,274 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.header-box{
+  width: 1917px;
+  height: 137px;
+  background-color: #2C3139;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px;
+  
+}
+
+
+
+.search-container{
+  width: 560px;
+  height: 60px;
+  border: 1px solid #FFF;
+}
+
+.nav-container{
+  margin-left: 288px;
+}
+
+.menu-button{
+  margin: 58px 60px 51px 140px;
+  background-color: #2C3139;
+  cursor: pointer;
+  border: none;
+}
+
+.main-icon{
+  margin-top: 40px;
+  margin-right: 382px;
+  margin-bottom: 34px;
+  width: 58px;
+  height: 63px;
+  cursor: pointer;
+}
+
+.search-button{
+
+  width: 28.435px;
+  height: 32.852px;
+  background-color: #2C3139;
+  border: none;
+  margin: 16px 0px 11.15px 18px;
+  cursor: pointer;
+}
+
+#search-box{
+  height: 60px;
+  width: 513.56px;
+  background-color: #2C3139;
+  border: none;
+}
+
+.nav-icons{
+  width: 37px;
+  height: 34px;
+  margin-right: 29px;
+  cursor: pointer;
+}
+
+.language-selector{
+  width: 43px;
+  height: 24px;
+  
+}
+
+.lang{
+  color: #FFF;
+  font-family: FiraGO;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.main-image{
+  width: 1923px;
+  height: 1080px;
+
+}
+
+.main-box{
+  background-color: #FFF;
+  width: 1920px;
+  height: 4558px;
+}
+.section-name{
+  color: #000;
+  font-family: Roboto;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-top: 40px;
+  width: 382px;
+  height: 71px;
+}
+
+.other-sections{
+  margin-top: 40px;
+  margin-bottom: 92px;
+  margin-left: 178px;
+  display: flex;
+}
+
+
+.section-photo{
+  width: 220px;
+  height: 220px;
+}
+
+.ssection-title{
+  color: #000;
+  font-family: FiraGO;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.products{
+  width: 121px;
+  height: 36px;
+  margin-left: 140px;
+
+}
+
+.products-bar{
+  color: #000;
+  font-family: FiraGO;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.sort-container{
+  width: 312px;
+  height: 52px;
+  background-color:rgba(255, 255, 255, 0.72);
+}
+
+.sort-selector{
+  padding: 8px 55px 8px 11px;
+  color: #000;
+  font-family: FiraGO;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.selector-icon{
+  width: 30px;
+  height: 30px;
+  padding: 13px 13px 8px 0px;
+
+}
+
+.item-list{
+  margin-top: 40px;
+  margin-left: 140px;
+}
+
+.item-box{
+  width: 600px;
+  height: 600px;
+  border: 2px solid rgba(50, 71, 35, 0.50);
+  background: #FFF;
+}
+
+.about-item{
+  width: 537px;
+  height: 600px;
+  border: 2px solid rgba(50, 71, 35, 0.50);
+  
+}
+
+.price{
+  color: #000;
+  font-family: FiraGO;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin:14px 452px 21px 17px;
+}
+
+.item-photo{
+  width: 468px;
+  height: 424px;
+  margin-left: 47px;
+  margin-right: 22px;
+  margin-bottom: 27px;
+}
+
+.add-to-cart{
+  width: 240px;
+  height: 60px;
+  flex-shrink: 0;
+  border-radius: 30px;
+  border: 1px solid #B21751;
+  background: #FFF;
+  margin-left: 149px;
+  margin-right: 148px;
+  margin-bottom: 16px;
+  cursor: pointer;
+}
+
+.add{
+  color: #000;
+  font-family: FiraGO;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.favorite-selector{
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  margin: 16px 15px 199px 16px;
+  
+}
+
+.code{
+  color: #000;
+  font-family: FiraGO;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  width: 78px;
+  height: 24px;
+}
+
+.first-color{
+  width: 10px;
+  height: 10px;
+  background-color: #740110;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 199px;
+}
+.second-color{
+  width: 10px;
+  height: 10px;
+  background-color: rgba(255, 255, 255, 0.50);
+  border:1px solid;
+  border-radius: 5px;
+  border-color: rgba(50, 71, 35, 0.50);;
+  cursor: pointer;
+  margin-top: 16px;
+}
+
+.third-color{
+  width: 10px;
+  height: 10px;
+  background-color: #FBC5C5;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 16px;
+}
+
+
